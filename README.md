@@ -1,4 +1,4 @@
-### Skills: Dart (Flutter), Python, Php, Html & Css, C#.
+### Skills: Dart (Flutter), Kotlin, Python, Php, Html & Css.
 
 - 🔭 I’m currently working on Flutter apps
 - 🌱 I’m currently learning Dart & Flutter
