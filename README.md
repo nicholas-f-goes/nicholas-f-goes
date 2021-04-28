@@ -1,4 +1,3 @@
-### Welcome!!!
 ### Skills: Dart (Flutter), Python, Php, HTML & CSS .
 
 - 🔭 I’m currently working on Flutter apps
